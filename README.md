@@ -1,7 +1,7 @@
 test-project - Webscraping from Google Search using Programmable Search Engine
 
 
-To run the webscraper.py, open it in your preferred IDE or text editor.
+To run the webscraper.py, open it in your preferred python IDE or text editor.
 
 Click on the URL address displayed in the console to open the browser search page.
 
